@@ -1,4 +1,4 @@
-#!/bin/bash  #you know what this is
+#!/bin/bash
 
 for i in $(shuf smb); do
 
