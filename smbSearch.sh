@@ -8,7 +8,7 @@ for i in $(shuf smb); do
 
 	for o in $(cat DISK_TEMP) ; do
 
-		smbclient -N -g "\\\\$i\\$o" -c "recurse;dir"  | sed "s/^/$i:$o /g" | tr -s ' '  | tee -a file.list #get file lists
+		smbclient -N -g "\\\\$i\\$o" -c "recurse;dir"  | sed "s/^/$i $o /g" | tr -s ' '  | tee -a file.list #get file lists
 
 	done
 
