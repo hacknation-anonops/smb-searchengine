@@ -23,4 +23,5 @@ echo -n reg:
 grep "\.reg" file.list | wc -l
 echo -n ini:
 grep "\.ini" file.list | wc -l
-
+echo -n php:
+grep "\.php" file.list | wc -l
