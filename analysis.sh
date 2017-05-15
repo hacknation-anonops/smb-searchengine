@@ -25,3 +25,5 @@ echo -n ini:
 grep "\.ini" file.list | wc -l
 echo -n php:
 grep "\.php" file.list | wc -l
+echo -n good hosts:
+grep "Anonymous login successful" file.list |wc -l
