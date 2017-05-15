@@ -18,4 +18,4 @@ rm -fv DISK_TEMP #cleaning
 
 sh analysis.sh #doing a quick one
 
-smbclient -N -g "\\\\$(cat out.file |awk '{print $1}' |tr -d 'IP=')\\$(cat out.file |awk '{print $2}' |tr -d 'SHARE=')" -c "get"
+smbclient -N -g "\\\\$(cat out.file |awk '{print $1}' |tr -d 'IP=')\\$(cat out.file |awk '{print $2}' |tr -d 'SHARE=')\$(cat out.file |awk '{print $3}' |tr -d 'PATH=')" -c "get"
