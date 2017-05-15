@@ -19,7 +19,7 @@ for line in open("file.list", "r", encoding="utf-8"):
         try:
             line[2] = str(topline) + "\\" + str(line[2])
             outfile.writelines(
-                "IP=" + str(line[0] + " " + "SHARE=" + str(line[1]) + " " + "PATH=" + str(line[2]) + "\n"))
+                    "\\\\" + str(line[0] + "\\" + str(line[1]) +  str(line[2]) + "\n"))
         except NameError:
             pass
     else:
