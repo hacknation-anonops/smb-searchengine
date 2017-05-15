@@ -10,7 +10,7 @@ grep "\.ppt" file.list | wc -l
 echo -n html:
 grep "\.html" file.list | wc -l
 echo -n txt:
-grep "txt" file.list | wc -l
+grep "\.txt" file.list | wc -l
 echo -n bat:
 grep "\.bat" file.list | wc -l
 echo -n msi:
@@ -25,5 +25,9 @@ echo -n ini:
 grep "\.ini" file.list | wc -l
 echo -n php:
 grep "\.php" file.list | wc -l
+echo -n csv:
+grep "\.csv" file.list | wc -l
+echo -n pst:
+grep "\.pst" file.list | wc -l
 echo -n good hosts:
 grep "Anonymous login successful" file.list |wc -l
