@@ -19,4 +19,8 @@ echo -n pdf:
 grep "\.pdf" file.list | wc -l
 echo -n epub:
 grep "\.epub" file.list | wc -l
+echo -n reg:
+grep "\.reg" file.list | wc -l
+echo -n ini:
+grep "\.ini" file.list | wc -l
 
