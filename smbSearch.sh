@@ -4,7 +4,7 @@ for i in $(shuf smb); do
 
 	echo $i #print ip
 
-	smbclient -g -N -L "\\\\$i\\"  | grep Disk | tr -s ' ' | sed 's/^ //g' | cut -f1 -d' ' > DISK_TEMP #get general info
+	smbclient -g -N -L "\\\\$i\\"  |grep Disk |tr -s ' ' |awk -F"|" '{print $2 }' > DISK_TEMP #get general info
 
 	for o in $(cat DISK_TEMP) ; do
 
@@ -15,3 +15,5 @@ for i in $(shuf smb); do
 done
 
 rm -fv DISK_TEMP #cleaning
+
+sh analysis.sh #doing a quick one
