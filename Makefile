@@ -1,2 +1,2 @@
 ubuntu:
-	sudo apt install smbclient tor
+	sudo apt install smbclient 
