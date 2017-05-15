@@ -4,6 +4,7 @@ SMB Search engine
 
 DEPENDANCY:
 	smbclient
+	tor
 
 
 DESCRIPTION:
