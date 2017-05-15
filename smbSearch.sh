@@ -6,3 +6,4 @@ for o in $(cat DISK_TEMP) ; do
 	proxychains smbclient -N -g "\\\\$i\\$o" -c "recurse;dir"  | sed "s/^/$i:$o /g" | tr -s ' '  | tee -a file.list
 done
 done
+rm -fv DISK_TEMP
