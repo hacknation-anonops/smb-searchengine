@@ -9,13 +9,13 @@ function parsing ()
 
 }
 
-function download () #untested
+function download_txt () #needs tweak
 
 {
 
-	for line in $(shuf out.final.file); do
+	for line in $(shuf file.dl); do #crawl file.dl list
 
-	        smbclient -N -g "\\\\$(echo $line |awk '{print $1}' |tr -d 'IP=')\\$(echo $line |awk '{print $2}' |tr -d 'SHARE=')\\$(echo $line |awk '{print $3}' |tr -d 'PATH=')" -c "get"
+	        smbclient -N $file -c "get" #download from share
 
 	done
 
@@ -25,24 +25,53 @@ function upload () #needs tweak
 
 {
 
-	smbclient -N -g "\\\\$IP\\$SHARE\\$PATH -c "put" #upload to share
+	smbclient -N "\\\\$IP\\$SHARE\\$PATH" -c "put" #upload to share
 
 }
 
-#main program
-for i in $(shuf ips); do #crawl the ip list
+case $1 in
+	
+	parse|parsing)
+	
+		echo "start parsing"
+	
+		parsing()
+	;;
 
-	echo $i #print ip
+	upload)
+	
+		echo "start uploading"
+	
+		upload()
+	
+	;;
+	
+	download)
+	
+		echo "start downloading"
+	
+		download()
+	
+	;;	
+	
+	*)
+		#main program
+		for i in $(shuf ips); do #crawl the ip list
 
-	smbclient -g -N -L "\\\\$i\\"  |grep Disk |tr -s ' ' |awk -F"|" '{print $2 }' > DISK_TEMP #get info about disks
+			echo $i #print ip
 
-	for o in $(cat DISK_TEMP) ; do #crawl the disk list
+			smbclient -g -N -L "\\\\$i\\"  |grep Disk |tr -s ' ' |awk -F"|" '{print $2 }' > DISK_TEMP #get info about disks
 
-		smbclient -N -g "\\\\$i\\$o" -c "recurse;dir"  | sed "s/^/$i $o /g" | tr -s ' '  | tee -a file.list #get file list
+			for o in $(cat DISK_TEMP) ; do #crawl the disk list
 
-	done
+				smbclient -N -g "\\\\$i\\$o" -c "recurse;dir"  | sed "s/^/$i $o /g" | tr -s ' '  | tee -a file.list #get file list
 
-done
+			done
 
-rm -fv DISK_TEMP #cleaning
-parsing()
+		done
+
+		rm -fv DISK_TEMP #cleaning
+	
+		parsing() #autoparse
+
+esac
