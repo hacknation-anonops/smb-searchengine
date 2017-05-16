@@ -1,5 +1,5 @@
 
-while read i 
+for line in $(shuf out.txt)
 	do
-		/usr/bin/torify smbclient -N "$i" -c "get"
+		smbclient -N $line -c "get"
 	done

@@ -1,0 +1,615 @@
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Asientos.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Asientos.txtm1
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Asientos1.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Asientos1.txtm1
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\ArchivosPlanos\Nomina.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\BaseDeDatos\ffecha.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Cartas\AumentoSueldo.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Cartas\Carnets.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Cartas\Consignacion.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\Cartas\PazySalvo.txt
+\\\\54.68.148.13\\PROAsistemas\\Recurso\ Humano 4\exe\ffecha.txt
+\\\\54.68.148.13\\Users\\Default\AppData\Local\Microsoft\Internet\ Explorer\brndlog.txt
+\\\\191.102.88.190\\Imprimir\\SuperateOfflineJunio\www\errors_log.txt
+\\\\191.102.88.190\\Users\\Invitado\AppData\Local\Microsoft\Internet\ Explorer\brndlog.txt
+\\\\191.102.88.190\\Users\\Invitado\AppData\Local\Google\Chrome\User\ Data\chrome_shutdown_ms.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1652_20161219180727.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1524_201693065733.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1680_2017210134821.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1724_201742085145.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1704_20161119123028.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1636_20161024092029.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1728_2017320054925.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1620_20161213035351.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1700_201728152033.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1580_20161010041927.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1612_20161026032152.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1664_2017216174306.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1708_2017320051844.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1628_20161019151954.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1672_2017216030523.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1628_20161025025437.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1632_201722030354.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1584_20161220022522.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1624_20161127045852.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1480_2016811033031.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1676_2017215161156.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid3156_201741220610.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1592_2016129051229.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1508_2016822100912.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1668_20161126031549.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1272_201693141147.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1660_20161125114420.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid4632_20161126064620.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1652_20161126065405.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1640_20161222022848.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1660_20161122055015.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1592_20161210124559.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1544_201694142133.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1520_201693122702.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1488_2016829124718.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1724_2017314104744.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1492_2016828071850.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1636_201729020654.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1616_20161023034542.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1500_201693051426.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1600_20161024014307.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1632_20161024163104.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1720_201741193823.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1640_20161218091713.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1700_201742173815.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1628_20161016040506.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1688_201751052859.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1616_201694125543.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1484_2016716051422.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1676_20161213064630.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1680_20161212065524.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1648_20161218090301.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1660_20161119020451.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid4452_2016715180428.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1496_2016725035529.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1676_20161122055720.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1500_2016725032003.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1644_20161128055634.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1668_20161118160448.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1600_20161028040310.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1516_201693141624.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1672_2017222054107.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1676_2017426063758.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1620_20161028190753.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1672_201728054508.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1672_201716034213.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1700_2017330032725.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1656_201728162335.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1672_201752083357.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1680_20161125033429.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1716_201743152756.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1732_2017427074718.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid4260_20161218091325.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1712_201742200821.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1612_20161011063143.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid3232_2016715180811.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1636_20161031122636.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1652_2017215070415.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1576_20161019071550.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1344_201693064920.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1612_20161017090439.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1688_2017411043411.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1708_2017320183649.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1584_20161018070329.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1676_20161120181355.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1648_20161017011844.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1492_2016823140232.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1508_201693060810.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1640_20161010123243.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1696_201746103543.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1636_20161117152233.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1668_201729044833.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1600_2016104050500.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1704_201745022733.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One Client Agent\AutoUpdateServicePid1640_201722080506.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\Administrator\Addon\Addon_BO_01.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files 64\SAP\SAP Business One DI API\Conf\b1-config-path.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\ibm.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\FREESSL_COPYRIGHT.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES21_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\Attachments\createdir.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\Conf\b1-config-path.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\ibm.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\FREESSL_COPYRIGHT.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES21_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\SAP\SAP Business One DI API\Conf\b1-config-path.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\ibm.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\FREESSL_COPYRIGHT.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES21_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\Attachments\createdir.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\Conf\b1-config-path.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\ibm.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\FREESSL_COPYRIGHT.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\Business Objects\BusinessObjects Enterprise 12.0\win32_x86\XERCES21_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\Administrator\BusinessOne\Dump\SAP Business One_20170402012546_20170402014342_crashlog_pid5092.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\Administrator\BusinessOne\Dump\SAP Business One_20170402000124_20170402001403_crashlog_pid2348.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\Administrator\BusinessOne\Dump\SAP Business One_20170402015016_20170402015233_crashlog_pid2780.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\Administrator\BusinessOne\Dump\SAP Business One_20170402101932_20170402103302_crashlog_pid3704.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170508032359_20170509164400_crashlog_pid6520.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170427015441_20170427025521_crashlog_pid5268.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170426170131_20170426172807_crashlog_pid2824.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170427024149_20170427030736_crashlog_pid5912.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170507153831_20170508032803_crashlog_pid2996.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170427030829_20170427034110_crashlog_pid5856.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170427013007_20170427014946_crashlog_pid5916.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170505114603_20170506061116_crashlog_pid5880.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170504183332_20170505115110_crashlog_pid8100.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170503090608_20170504183807_crashlog_pid2080.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170506065121_20170506115123_crashlog_pid5272.txt
+\\\\54.179.158.232\\B1_SHF\\log\WIN-SHMB3KPTB0F\SAP\ Business One\WIN-SHMB3KPTB0F$\BusinessOne\Dump\SAP Business One_20170506061038_20170506071045_crashlog_pid5148.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Korean\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Korean\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Korean\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Korean\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Japanese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Japanese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Japanese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Japanese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\TraditionChinese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\TraditionChinese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\TraditionChinese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\TraditionChinese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Polish\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Polish\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Polish\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Polish\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Slovak\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Slovak\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Slovak\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Slovak\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Czech\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Czech\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Czech\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Czech\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Brazilian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Brazilian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Brazilian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Brazilian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\French\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\French\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\French\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\French\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Dutch\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Dutch\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Dutch\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Dutch\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Portuguese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Portuguese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Portuguese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Portuguese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\SimplifiedChinese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\SimplifiedChinese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\SimplifiedChinese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\SimplifiedChinese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Swedish\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Swedish\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Swedish\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Swedish\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English UK\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English UK\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English UK\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English UK\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\English\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Norwegian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Norwegian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Norwegian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Norwegian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Denmark\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Denmark\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Denmark\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Denmark\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Russian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Russian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Russian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Russian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\German\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\German\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\German\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\German\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Finnish\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Finnish\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Finnish\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Finnish\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Hungarian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Hungarian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Hungarian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Hungarian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Israel\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Israel\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Israel\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Israel\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Italy\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Italy\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Italy\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Italy\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Latin America\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Latin America\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Latin America\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Latin America\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Spain\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Spain\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Spain\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\WordDocs\Spain\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Korean\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Korean\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Korean\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Korean\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Japanese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Japanese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Japanese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Japanese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\TraditionChinese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\TraditionChinese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\TraditionChinese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\TraditionChinese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Polish\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Polish\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Polish\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Polish\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Slovak\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Slovak\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Slovak\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Slovak\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Czech\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Czech\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Czech\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Czech\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Brazilian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Brazilian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Brazilian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Brazilian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\French\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\French\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\French\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\French\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Dutch\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Dutch\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Dutch\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Dutch\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Portuguese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Portuguese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Portuguese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Portuguese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\SimplifiedChinese\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\SimplifiedChinese\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\SimplifiedChinese\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\SimplifiedChinese\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Swedish\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Swedish\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Swedish\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Swedish\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English UK\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English UK\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English UK\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English UK\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\English\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Norwegian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Norwegian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Norwegian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Norwegian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Denmark\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Denmark\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Denmark\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Denmark\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Russian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Russian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Russian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Russian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\German\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\German\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\German\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\German\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Finnish\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Finnish\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Finnish\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Finnish\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Hungarian\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Hungarian\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Hungarian\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Hungarian\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Israel\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Israel\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Israel\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Israel\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Italy\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Italy\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Italy\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Italy\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Latin America\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Latin America\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Latin America\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Latin America\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Spain\Header.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Spain\Lines2.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Spain\Lines3.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\WordDocs\Spain\Lines1.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files 64\SAP\SAP Business One DI API\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\ActiveXControls\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files 64\SAP\SAP Business One\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\ActiveXControls\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\SAP\SAP Business One DI API\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\ActiveXControls\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\SAP\SAP Business One\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\ActiveXControls\XERCES27_LICENSE.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI.x64\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\54.179.158.232\\B1_SHF\\Client.x64\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\54.179.158.232\\B1_SHF\\DIAPI\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\54.179.158.232\\B1_SHF\\Client\Program\ Files\Business Objects\Common\4.0\crystalreportviewers12\js\MochiKit\3rdParty.txt
+\\\\66.228.212.26\\Users\\Public\Documents\Intuit\QuickBooks\Company\ Files\FAM12\clients\{48A63C08-B7D4-4CCC-9A7B-3505915BD272}\PostedJEList.txt
+\\\\66.228.212.26\\Users\\Public\Documents\Intuit\QuickBooks\Company\ Files\FAM14\clients\{48A63C08-B7D4-4CCC-9A7B-3505915BD272}\PostedJEList.txt
+\\\\124.170.151.215\\games\\Unreal\ Tournament\opengl.txt
+\\\\151.0.242.95\\Documenti\\Pubblica\Paginebianche\readme_e.txt
+\\\\151.0.242.95\\Documenti\\Pubblica\Paginebianche\readme_i.txt
+\\\\151.0.242.95\\Documenti\\#recycle\Pubblica\Nuovo\ documento di testo.txt
+\\\\151.0.242.95\\Documenti\\Archivio\ Programmi\Acronis\lista chiavi.txt
+\\\\151.0.242.95\\Documenti\\Pubblica\Paginebianche\CD\CATEGORI_ocx.txt
+\\\\151.0.242.95\\Documenti\\Pubblica\Paginebianche\CD\sigle.txt
+\\\\151.0.242.95\\Documenti\\#recycle\Federico\ Remondini\SUPERBACKUP\pwd revoagent.txt
+\\\\151.0.242.95\\Documenti\\#recycle\Federico\ Remondini\SUPERBACKUP\contatti russia.txt
+\\\\151.0.242.95\\Documenti\\#recycle\Federico\ Remondini\SUPERBACKUP\googleanalyticsjavascript.txt
+\\\\151.0.242.95\\Documenti\\#recycle\Gaia\ Siebaneck\Nuova cartella\Nuovo documento di testo.txt
+\\\\151.0.242.95\\Documenti\\#recycle\Elisabetta\ Riva\VIE DI BERGAMO\C\via dei carpinoni 23.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A1-A4-A7\URL2193.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A10\URL2141.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A11\url 2191.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A2\url 2195.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A3\url 2194.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A5\url 2195 copia.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A6\Url 2194 copia.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\A8\URL2192.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\B1\url 2189.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\B4\url 2190.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\B5\url 2187.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\B6\url 2188.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\B7\url 2186.txt
+\\\\151.0.242.95\\Documenti\\IMMOBILI\ SPARSI\Appartamenti Foppolo Chalet Ronchi - Ronchi\Planimetrie arredate\B8\URL2196.txt
+\\\\86.169.229.220\\music\\Joni\ Mitchell - Blue\Joni Mitchell - Blue(tracks credits).txt
+\\\\86.169.229.220\\music\\The\ Police\1 - A LIRE ABSOLUMENT EN PREMIER - Copie.txt
+\\\\86.169.229.220\\music\\Faces\ - A Nod Is As Good As A Wink To A Blind Horse\Faces.txt
+\\\\86.169.229.220\\music\\George\ Thorogood & The Destroyers - Anthology\George Thorogood & The Destroyers - Anthology (Disk 2)\tracklist.txt
+\\\\86.169.229.220\\music\\George\ Thorogood & The Destroyers - Anthology\George Thorogood - Anthology (Disc 1)\tracklist.txt
+\\\\86.169.229.220\\music\\King\ King\Take My Hand\__For Any Suggestion Or Comments - jamalthemoroccan@gmail.com .txt
+\\\\86.169.229.220\\video\\Breaking\ Bad\Series 4\1KABLAM!!!.txt
+\\\\81.93.74.46\\Puma2\\Admin32\externalip.txt
+\\\\81.93.74.46\\Puma2\\Admin32\lastupdate.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Lista.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Neispravne\ Cijene borik.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Neispravne\ Cijene kl 1.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Neispravne\ Cijene kl1.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Neispravne\ Cijene klasnice 1 gorivo.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Neispravne\ Cijene1.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Neispravne\ Cijenekl2.txt
+\\\\81.93.74.46\\Puma2\\Admin32\novosti.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Puma2Admin32.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Sifarnik_25_12_2012.txt
+\\\\81.93.74.46\\Puma2\\CentralAdmin\lastupdate.txt
+\\\\81.93.74.46\\Puma2\\CentralAdmin\Lista.txt
+\\\\81.93.74.46\\Puma2\\CentralAdmin\pregledcentralnebazedekpnd32.txt
+\\\\81.93.74.46\\Puma2\\Digit\ Replicator\DIGITReplicator.txt
+\\\\81.93.74.46\\Puma2\\DOMSPOS\DomsPosAx.txt
+\\\\81.93.74.46\\Puma2\\DOMSPOS\externalip.txt
+\\\\81.93.74.46\\Puma2\\Donate\ please\Donate please.txt
+\\\\81.93.74.46\\Puma2\\InterBase\ Recovery\IBR_KEY.txt
+\\\\81.93.74.46\\Puma2\\InterBase\ Recovery\Reparar interbase.txt
+\\\\81.93.74.46\\Puma2\\POS_LITE\poslite.txt
+\\\\81.93.74.46\\Puma2\\RemoteAdmin\serial.txt
+\\\\81.93.74.46\\Puma2\\Super_Petrol_pregled\params.txt
+\\\\81.93.74.46\\Puma2\\xreplikator\xreplicator.txt
+\\\\81.93.74.46\\Puma2\\Admin32\DIGIT\DatumZadnjeWebPoruke.txt
+\\\\81.93.74.46\\Puma2\\Admin32\digit2\DatumZadnjeWebPoruke.txt
+\\\\81.93.74.46\\Puma2\\Admin32\dijana\DatumZadnjeWebPoruke.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Dubravka\DatumZadnjeWebPoruke.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Win64\lastupdate.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Win64\Lista.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Win64\Puma2Admin64.txt
+\\\\81.93.74.46\\Puma2\\Admin32\zeljko\DatumZadnjeWebPoruke.txt
+\\\\81.93.74.46\\Puma2\\CentralAdmin\Win64\lastupdate.txt
+\\\\81.93.74.46\\Puma2\\CentralAdmin\Win64\Lista.txt
+\\\\81.93.74.46\\Puma2\\CentralAdmin\Win64\pregledCentralnebazedekpnd64.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon\Bin\ADO2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon\Bin\BDE2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon\ - Copy\Bin\ADO2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon\ - Copy\Bin\BDE2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon2014\Bin\ADO2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon2014\Bin\BDE2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheonTest\Bin\ADO2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheonTest\Bin\BDE2AnyDAC.txt
+\\\\81.93.74.46\\Puma2\\Super_Petrol_pregled\win64\params.txt
+\\\\81.93.74.46\\Puma2\\Admin32\Win64\digit\DatumZadnjeWebPoruke.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon\DB\Data\ADQA_Unicode_Strings.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon\ - Copy\DB\Data\ADQA_Unicode_Strings.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheon2014\DB\Data\ADQA_Unicode_Strings.txt
+\\\\81.93.74.46\\Puma2\\DigitToPantheonTest\DB\Data\ADQA_Unicode_Strings.txt
+\\\\213.165.44.117\\C\\Default\AppData\Roaming\Microsoft\Windows\Start\ Menu\Programs\System Tools\TDSSKiller.3.1.0.9_20.01.2016_14.56.53_log.txt
+\\\\213.165.44.117\\C\\Default\AppData\Roaming\Microsoft\Windows\Start\ Menu\Programs\System Tools\TDSSKiller.3.1.0.9_20.01.2016_15.02.48_log.txt
+\\\\51.174.206.179\\Bilder\\Users\Default\AppData\Roaming\Microsoft\Windows\Start\ Menu\Programs\System Tools\_Nlog.txt
+\\\\51.174.206.179\\Bilder\\Documents\googel.txt
+\\\\51.174.206.179\\Bilder\\Mobil\ bilder\_Nlog.txt
+\\\\51.174.206.179\\Bilder\\LAVIDA\ BUnn Jobb\_Nlog.txt
+\\\\51.174.206.179\\Bilder\\Lavida\ bilder\_Nlog.txt
+\\\\51.174.206.179\\Bilder\\PLAYBOY\NetLog.txt
+\\\\51.174.206.179\\Bilder\\Lavida\ bilder\Rullefokk\_Nlog.txt
+\\\\51.174.206.179\\Bilder\\Lavida\ Varme\Ny mappe\_Nlog.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\ 2016\HR klubben.txt
+\\\\51.174.206.179\\dropbox\\roger\ seil og dykk\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NV Koder.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\codertil NV Dongle.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Havne.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Bacup\ manual Wordpress.txt
+\\\\51.174.206.179\\dropbox\\OpenCpn\ Frihavner\Open Cpn Ønske.txt
+\\\\51.174.206.179\\dropbox\\ROGER\DYSER\ TIL FORD.txt
+\\\\51.174.206.179\\dropbox\\Frihavn\ ordningen\LINKER SKJELLAND.txt
+\\\\51.174.206.179\\dropbox\\roger\ seil og dykk\skatt skjema\KOnto Skandiabanken.txt
+\\\\51.174.206.179\\dropbox\\roger\ seil og dykk\skatt skjema\ORG og litt.txt
+\\\\51.174.206.179\\dropbox\\roger\ seil og dykk\skatt skjema\FRAKT Honkomg.txt
+\\\\51.174.206.179\\dropbox\\seaclear\SeaClea\ rmed kart\Readme.txt
+\\\\51.174.206.179\\dropbox\\seaclear\SeaClea\ rmed kart\Svi_Gri.txt
+\\\\51.174.206.179\\dropbox\\seaclear\SeaClea\ rmed kart\upgrade.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\BSB KART\KODER.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Båt Alarm\GPS Tracker update firmware instructions.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\id.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\Manualer\Ladixx\ATT00094.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\roger\ seil og dykk\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\kart\ havner\HR klubben.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\NV Koder.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\codertil NV Dongle.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Rafnes\DYSER\ TIL FORD.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\xxx\xxxxxxxxxxxxxx.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Lederene\ediagnostic.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Lederne 1\Brev fra Brekke 23.03.07 Ad Frustrert avd.leder 125.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\PINNE 2008.1\AISSSSSSSSS.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Lederene 05\ediagnostic.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Lederne 2009\Fw_Svar LEIF 25_ mai.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Lederne 2009\82_oOwnersManual.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Ledernr 2\kart kode.txt
+\\\\51.174.206.179\\dropbox\\OpenCpn\OpenCpn\ Kjøre fra USB pinne 32. 64 bit\license.txt
+\\\\51.174.206.179\\dropbox\\lydbøker\ for stor og liten\Jack London - Ulf Larson (lydbok)\Ny Tekstdokument.txt
+\\\\51.174.206.179\\dropbox\\Fra\ Laptop\desktop\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\ROGER\roger\ seil og dykk\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\ROGER\documents\aaaaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\ROGER\documents\aa\ vet ikke.txt
+\\\\51.174.206.179\\dropbox\\KNBF\KNBF\ BOYE med feil og alle\Photodhop Elements 3,0 koder.txt
+\\\\51.174.206.179\\dropbox\\MP3\ Bank\Iron Maiden\Iron Maiden - The X-factor\Originally released October 2, 1995.txt
+\\\\51.174.206.179\\dropbox\\MP3\ Bank\Iron Maiden\Iron Maiden A Real Dead One - A Real live One\Originally released as 2 CDs - March 22, 1993 & October 18, 1993.txt
+\\\\51.174.206.179\\dropbox\\seaclear\seaCler\SeaClea\ rmed kart\Readme.txt
+\\\\51.174.206.179\\dropbox\\seaclear\seaCler\SeaClea\ rmed kart\Svi_Gri.txt
+\\\\51.174.206.179\\dropbox\\seaclear\seaCler\SeaClea\ rmed kart\upgrade.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\html\deletelist.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Båt Alarm\Usb Driver V3.0\USB Installation Guide.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\aerials.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\deletelist.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\legende.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\manual.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\pilot.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\aerials.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\tides.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\deletelist.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\legende.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\manual.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\pilot.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\html\aerials.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\html\deletelist.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\html\legende.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\html\manual.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\html\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\html\pilot.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\html\aerials.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\html\deletelist.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\html\legende.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\html\manual.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\html\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\html\pilot.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 5.Svenske Vestkyst 5\html\aerials.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 5.Svenske Vestkyst 5\html\deletelist.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 5.Svenske Vestkyst 5\html\legende.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 5.Svenske Vestkyst 5\html\manual.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 5.Svenske Vestkyst 5\html\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr 5.Svenske Vestkyst 5\html\pilot.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\html\aerials.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\html\tides.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\html\deletelist.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\html\legende.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\html\manual.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\html\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Oslo Lindenes\html\pilot.ini.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear\SC II VNC.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear\Readme.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear\Svi_Gri.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear\upgrade.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear 1\SC II VNC.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear 1\Readme.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear 1\Svi_Gri.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SeaClear 1\upgrade.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SCII\SC II VNC.txt
+\\\\51.174.206.179\\dropbox\\Kart\ Program\SEACLEAR PRIVAT\SEACLEAR KODE\SC II VNC.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Frihavne\GpxRuter\EmptyFile.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\roger\ seil og dykk\SIRI SKRIVEBORD\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\roger\ seil og dykk\Rogers seil og Dykk 1\KOnto Skandiabanken.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\roger\ seil og dykk\Rogers seil og Dykk 1\ORG og litt.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\roger\ seil og dykk\SIRI SKRIVEBORD (1)\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\kart\ havner\Kart handtegner Jensen\1. John Harald Jensen.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\BSB KART\KODER.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\Båt Alarm\GPS Tracker update firmware instructions.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\SXK\ReadMe.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\NR.2 bornholm Koppenhagen\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\id.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\Nr 1 Kile Bukt\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\pINNE\ nY BÅT PC\Oslo Lindenes\Prodykt ID.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\KNBF\ Bøyer 2015\OpenCpn Kjøre fra USB pinne 32. 64 bit\license.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\OpenCpn\OpenCpn\ Kjøre fra USB pinne 32. 64 bit\license.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\PL2303_Prolific_DriverInstaller_v1_7_0\PL2303_DriverInstallerv1.7.0_ReleaseNote.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\PL2303_Prolific_DriverInstaller_v1_7_0\PL2303CheckChipVersion_ReadMe.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\documents\kart.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\documents\aaaaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\documents\install.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\documents\startup.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\documents\aa vet ikke.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\PL-2303-Prolific-Driver-Installer-v10518 (1)\releasenote.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\Fra\ Laptop\desktop\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\LAVIDA\Servo\ styring\HyDrive Admiral series Model 101.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\LAVIDA\Lederene\ATT00249.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\den\ norske los\a kart gpx seil\HR klubben.txt
+\\\\51.174.206.179\\dropbox\\Dropbox\KNBF\KNBF\ BOYE\Photodhop Elements 3,0 koder.txt
+\\\\51.174.206.179\\dropbox\\MP3\ Bank 1\Nedlastet\Atomic.Kitten.-.Greatest.Hits\Importante!!.txt
+\\\\51.174.206.179\\dropbox\\MP3\ Bank 1\Nedlastet\Atomic.Kitten.-.Greatest.Hits\BORRAR A LAS 24 HORAS!!!.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Lederene\AVD 125\Ad Avtaleopprettelse.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Lederene\AVD 125\Ad Frustrert avd.leder 125.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Ledernr 2\Lederne 2007\AIS.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Ledernr 2\Lederne 2007\Pooff .txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Ledernr 2\Lederne 2009\Fw_Svar LEIF 25_ mai.txt
+\\\\51.174.206.179\\dropbox\\Lederene\ Noretyl\Ledernr 2\Lederne 2009\82_oOwnersManual.txt
+\\\\51.174.206.179\\dropbox\\Fra\ Laptop\pinne openpncpn\Cmap 2000\Les meg.txt
+\\\\51.174.206.179\\dropbox\\Fra\ Laptop\pinne openpncpn\Cmap 2000\tipps.txt
+\\\\51.174.206.179\\dropbox\\Fra\ Laptop\Pictures\Bilder\_Nlog.txt
+\\\\51.174.206.179\\dropbox\\ROGER\roger\ seil og dykk\SIRI SKRIVEBORD\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\ROGER\roger\ seil og dykk\Rogers seil og Dykk 1\KOnto Skandiabanken.txt
+\\\\51.174.206.179\\dropbox\\ROGER\roger\ seil og dykk\Rogers seil og Dykk 1\ORG og litt.txt
+\\\\51.174.206.179\\dropbox\\ROGER\roger\ seil og dykk\SIRI SKRIVEBORD (1)\aaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\ROGER\Fra\ Skrivebord 2015\GPS Tester\aaaaaaaaaaaaaaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\ROGER\Fra\ Skrivebord 2015\GPS Tester\aaaaaaa.txt
+\\\\51.174.206.179\\dropbox\\KNBF\KNBF\ BOYE med feil og alle\Region Nordvest - Møre og Romsda\Gimp Manual.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\nvinst\charts\installdata.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\uninstall\de\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\uninstall\uk\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\uninstall\dk\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\html\de\licence.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\html\uk\licence.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\OSLO\html\dk\licence.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\VIND LOGG\Software & Drivers\Serial - USB Driver\readme.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\nvinst\charts\installdata.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\uninstall\de\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\uninstall\uk\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\uninstall\se\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\uninstall\dk\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\de\licence.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\uk\licence.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\se\licence.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\Nr. 3 Samsø kattegatt\html\dk\licence.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\nvinst\charts\installdata.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\uninstall\de\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\uninstall\uk\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\uninstall\dk\setup.ini.txt
+\\\\51.174.206.179\\dropbox\\pINNE\ nY BÅT PC\NO 1\html\de\licence.txt
