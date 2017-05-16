@@ -9,7 +9,7 @@ function parsing ()
 
 }
 
-function download_txt () #needs tweak
+function download () #needs tweak
 
 {
 
@@ -21,11 +21,20 @@ function download_txt () #needs tweak
 
 }
 
-function upload () #needs tweak
+function inject () #needs tweak
 
 {
 
-	smbclient -N "\\\\$IP\\$SHARE\\$PATH" -c "put" #upload to share
+	for line in $(shuf file.dl); do #crawl file.dl list
+
+	        smbclient -N $file -c "get" #download from share
+
+	done
+	
+	#some inject here
+	
+	#upload some stuf here
+	smbclient -N $file -c "put" #upload to share
 
 }
 
@@ -73,5 +82,7 @@ case $1 in
 		rm -fv DISK_TEMP #cleaning
 	
 		parsing() #autoparse
+		
+		sh analysis.sh #do some quick analysis.sh
 
 esac
