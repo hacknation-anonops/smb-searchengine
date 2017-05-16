@@ -18,8 +18,10 @@ for line in open("file.list", "r", encoding="utf-8"):
     elif not line[2].startswith("\\"):
         try:
             line[2] = str(topline) + "\\" + str(line[2])
+            if line[2].startswith("\\"):
+                line[2].replace("\\", "", count=1)
             outfile.writelines(
-                    "\\\\\\\\" + str(line[0] + "\\\\" + str(line[1]) + "\\" +  str(line[2]) + "\n"))
+                    '\\\\\\\\' + str(line[0] + "\\\\" + str(line[1]) + '\\\\|@|@' + str(line[2]) + '\n'))
         except NameError:
             pass
     else:
