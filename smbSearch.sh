@@ -4,7 +4,7 @@ function parsing () #is ok
 
 	python3 parse.py #parse line in grepable output
 
-	cat out.file | rev | cut --complement -d' ' -f-7 | rev  | sed 's/\ /\\ /'   > out.file #get output without additional info form smbclient
+	cat out.file | rev | cut --complement -d' ' -f-7 | rev  | sed 's/\ /\\ /' > out.file1 #get output without additional info form smbclient
 
 function download () #needs tweak
 
