@@ -1,5 +1,4 @@
 #!/bin/sh
-
 case $1 in
 
 sort)
@@ -34,7 +33,8 @@ sort)
 	echo -n php: ; grep "\.php " file.list > out.php
 	echo -n csv: ; grep "\.csv " file.list > out.csv
 	echo -n pst: ; grep "\.pst " file.list > out.pst
-	sh analysis.sh
+	
+	sh smbSearch.sh analysis #do some quick analysis
 
 	;;
 
@@ -43,7 +43,9 @@ parse|parsing)
 	echo "start parsing"
 
 	python3 parse.py #parse line in grepable output
-
+	
+	
+	
 	;;
 
 inject)
@@ -115,6 +117,7 @@ analysis)
 	echo -n csv: ; grep "\.csv " file.list | wc -l
 	echo -n pst: ; grep "\.pst " file.list | wc -l
 	echo -n good hosts: ; grep "Anonymous login successful" file.list |wc -l
+	
 	;;
 
 *)
@@ -145,6 +148,6 @@ analysis)
 
 	clear
 
-	sh analysis.sh #do some quick analysis.sh
+	sh smbSearch.sh analysis #do some quick analysis
 
 esac
