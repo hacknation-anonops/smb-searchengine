@@ -8,6 +8,8 @@ for line in open("file.list", "r", encoding="utf-8"): # input file
         line[2] = line[2].split("\n")[0]
 
     if line[2].startswith('\\'):
+        while line[2].startswith("\\"):
+            line[2].replace("\\", "")
         topline = line[2]
 
 
@@ -19,7 +21,7 @@ for line in open("file.list", "r", encoding="utf-8"): # input file
 
     elif not line[2].startswith("\\"):
         try:
-            line[2] = str(topline.replace("\\\\", "")) + "\\" + str(line[2])
+            line[2] = str(topline) + "\\" + str(line[2])
             outfile.writelines(
                     '\\\\\\\\' + str(line[0] + "\\\\" + str(line[1]) + '\\\\|@|@' + str(line[2]) + '\n')) # writes lines to file
         except NameError:
@@ -32,5 +34,5 @@ process = subprocess.Popen(bashCommand.split(), stdout=subprocess.PIPE)
 output, error = process.communicate()
 
 for line in open("out.file1", "r"):
-    line.replace(" ", "\\ ")
+    line.replace
     outfile.writelines(line + "\n")
